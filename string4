@@ -1,0 +1,7 @@
+public class string4 {
+  public static void main(String[] args) {
+    String txt = "Mugdha";
+    System.out.println(txt.charAt(0));  
+    System.out.println(txt.charAt(4));  
+  }
+}
